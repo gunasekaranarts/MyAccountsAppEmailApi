@@ -1,7 +1,7 @@
 /**
  * Vercel Serverless Function: Monthly Report Email Sender
  * Endpoint: https://YOUR-VERCEL-URL/api/send-report
- * Handles sending emails with file attachments (PDF, Excel, etc.)
+ * Handles sending emails with file attachments (PDF, Excel,, json etc.)
  */
 
 const nodemailer = require('nodemailer');
